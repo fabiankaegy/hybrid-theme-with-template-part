@@ -1,0 +1,23 @@
+{
+  "name": "hybrid-theme-with-template-part",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wp-env": "wp-env"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiankaegy/hybrid-theme-with-template-part.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiankaegy/hybrid-theme-with-template-part/issues"
+  },
+  "homepage": "https://github.com/fabiankaegy/hybrid-theme-with-template-part#readme",
+  "dependencies": {
+    "@wordpress/env": "^5.12.0"
+  }
+}
