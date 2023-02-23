@@ -1,3 +1,4 @@
 {
-	"themes": [ "./hybrid-theme" ]
+	"themes": [ "./hybrid-theme" ],
+	"plugins": [ "./gutenberg" ]
 }
